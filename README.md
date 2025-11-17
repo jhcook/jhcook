@@ -72,3 +72,8 @@ I’ve built and led engineering teams for finance, energy, and government; deli
 ➡️ [Agentic RAG Project Summary](./agentic_rag.md)
 
 ➡️ [Image to Video Summary](./image_to_video.md)
+
+➡️ [Agentic AI Summary](./agentic_ai.md)
+
+➡️ [Kubernetes Dev Env Summary](./kubernetes_dev_env.md)
+
