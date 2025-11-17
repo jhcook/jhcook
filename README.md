@@ -8,7 +8,6 @@ I’ve led global engineering teams across the US, UK, Russia, and Australia, de
 
 My current obsession: building systems that reason about their own state and augment human operators, instead of just automating tasks.
 
-⸻
 
 🚀 Current Focus Areas
 
@@ -24,7 +23,6 @@ CI/CD transformations, cloud migration strategy, zero-downtime data upgrades, th
 SRE & Operational Excellence
 Incident automation, resiliency patterns, governance, cross-team enablement.
 
-⸻
 
 🧩 Featured Projects
 
@@ -52,7 +50,6 @@ A media-AI pipeline supporting Sora-2, Azure Sora, Google Veo, and RunwayML.
 Prompt → video workflows with automated stitching and output controls.
 👉 https://github.com/jhcook/image_to_video
 
-⸻
 
 🛠️ Languages & Tools
 
@@ -62,14 +59,14 @@ AI Tooling: OpenAI, CoPilot, Claude, Gemini, LangChain, LangGraph, MCP
 Observability: Prometheus, Grafana, Datadog
 Automation: Ansible, IaC frameworks, event-driven ops
 
-⸻
 
 🌏 Background in Brief
 
 I’ve built and led engineering teams for finance, energy, and government; delivered global cloud-native transformations; enforced high-stakes compliance (SOC2, NERC CIP); and architected platforms trusted by millions of users. I enjoy the intersection where system architecture, leadership, and intelligent automation collide.
 
-⸻
 
 ✏️  Resources
 
 ➡️ [My cover letter](./cover_letter.md)
+➡️ [Agentic RAG Project Summary](./agentic_rag.md)
+
