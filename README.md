@@ -1,8 +1,6 @@
 ## Hi there 👋
 
- 👋 Justin Cook
-
-Engineering Leader • Distributed Systems • Agentic AI • Reliability & Automation
+Engineering Leader • Distributed Systems • Agentic AI • Reliability & Automation • Telemetry & Visibility
 
 I design and operate large-scale distributed systems and build the automation ecosystems that keep them reliable, observable, and fast. My work blends 30 years of hands-on engineering with a growing focus on agentic AI, Kubernetes platform engineering, and intelligent automation pipelines.
 
@@ -60,7 +58,7 @@ Prompt → video workflows with automated stitching and output controls.
 
 Cloud & Platforms: AWS, Kubernetes (EKS/OpenShift), Terraform, GitHub Actions
 Languages: Python, Go, Shell
-AI Tooling: OpenAI, Azure OpenAI, Gemini, LangChain, LangGraph, MCP
+AI Tooling: OpenAI, CoPilot, Claude, Gemini, LangChain, LangGraph, MCP
 Observability: Prometheus, Grafana, Datadog
 Automation: Ansible, IaC frameworks, event-driven ops
 
@@ -70,3 +68,8 @@ Automation: Ansible, IaC frameworks, event-driven ops
 
 I’ve built and led engineering teams for finance, energy, and government; delivered global cloud-native transformations; enforced high-stakes compliance (SOC2, NERC CIP); and architected platforms trusted by millions of users. I enjoy the intersection where system architecture, leadership, and intelligent automation collide.
 
+⸻
+
+✏️  Resources
+
+➡️ [My cover letter](./cover_letter.md)
